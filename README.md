@@ -1,4 +1,4 @@
 ## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzexiaoyu)
 
-![Yuzexiaoyu](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
